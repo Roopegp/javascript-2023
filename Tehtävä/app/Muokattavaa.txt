@@ -1,0 +1,5 @@
+app.js 
+Linjalla 84 virhe class"expired eikä class="expired"
+
+format functio ei näytä hyvältä muiden functioden sisällä siirrä getRemainingTime ulkopuolelle
+voisi lisätä toiminallisuuden laskea giveawayn lopun jälkeen "time since last giveaway (aika viimeisestä giveawaysta)
